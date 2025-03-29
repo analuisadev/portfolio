@@ -12,13 +12,13 @@ const projects = [
   {
     title: "Ecommerce",
     description: "Aplicativo de E-commerce",
-    image: "../../public/ecommerce-preview.jpg",
+    image: "../../src/img/ecommerce-preview.jpg",
     link: "https://github.com/analuisadev/E-Commerce",
   },
   {
     title: "Freelance Hours",
     description: "Sistema de freelancer para desenvolvedores - Em andamento",
-    image: "../../public/freelance-hours-preview.png",
+    image: "../../src/img/freelance-hours-preview.png",
     link: "https://github.com/analuisadev/freelance-hours",
   },
 ];

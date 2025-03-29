@@ -35,7 +35,7 @@ export function AboutMe() {
           <div className="relative group max-w-md mx-auto">
             <div className="aspect-square rounded-2xl overflow-hidden transition-transform duration-300 group-hover:scale-[1.02]">
               <img
-                src="../../public/eu.jpeg"
+                src="../../src/img/eu.jpeg"
                 alt="Foto de perfil"
                 className="object-cover w-full h-full transition-transform duration-300 group-hover:scale-105"
               />

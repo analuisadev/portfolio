@@ -4,13 +4,6 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 
 const educations = [
   {
-    title: "Tecnólogo em Análise e Desenvolvimento de Sistemas",
-    institution: "Centro Universitário Maurício de Nassau - UNINASSAU",
-    period: "2021 - 2023",
-    type: "Graduação",
-    icon: GraduationCap,
-  },
-  {
     title: "Especialização em Tecnologias Aplicadas a Educação",
     institution: "Centro Universitário União das Américas Descomplica - UNIAMÉRICA",
     period: "2024 - 2025",
@@ -25,10 +18,17 @@ const educations = [
     icon: BookOpen,
   },
   {
+    title: "Tecnólogo em Análise e Desenvolvimento de Sistemas",
+    institution: "Centro Universitário Maurício de Nassau - UNINASSAU",
+    period: "2021 - 2023",
+    type: "Graduação",
+    icon: GraduationCap,
+  },
+  {
     title: "Programador de Sistemas",
     institution: "Instituto Federal de Brasília - IFB",
-    period: "2016 - 2017",
-    type: "Aperfeiçoamento",
+    period: "2020 - 2020",
+    type: "Qualificação Profissional",
     icon: Award,
   }
 ];

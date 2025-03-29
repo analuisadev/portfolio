@@ -4,22 +4,22 @@ import { ExternalLink } from "lucide-react";
 
 const projects = [
   {
-    title: "Exemplo 1",
-    description: "Desc",
+    title: "VidFlow",
+    description: "Plataforma de vídeos web Full-Stack",
     image: "https://images.unsplash.com/photo-1487058792275-0ad4aaf24ca7",
-    link: "#",
+    link: "https://vid-flow-mauve.vercel.app/",
   },
   {
-    title: "Exemplo 2",
-    description: "Desc",
-    image: "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
-    link: "#",
+    title: "Ecommerce",
+    description: "Aplicativo de E-commerce",
+    image: "../../public/ecommerce-preview.jpg",
+    link: "https://github.com/analuisadev/E-Commerce",
   },
   {
-    title: "Exemplo 3",
-    description: "Desc",
-    image: "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d",
-    link: "#",
+    title: "Freelance Hours",
+    description: "Sistema de freelancer para desenvolvedores - Em andamento",
+    image: "../../public/freelance-hours-preview.png",
+    link: "https://github.com/analuisadev/freelance-hours",
   },
 ];
 

@@ -18,7 +18,7 @@ const experiences = [
   {
     period: "2023 - 2025",
     role: "Docente de Educação Profissional",
-    company: "SENAI",
+    company: "SENAC",
     description:
       "Docente dos cursos técnico em Desenvolvimento de Sistemas, Programador Full-Stack, Excel Básico, Intermediário e Avançado, Informática Básica e demais cursos internos para projetos: SPMJ, SEMDEC e INSS.",
   },
